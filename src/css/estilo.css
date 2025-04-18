@@ -50,3 +50,26 @@ body{
 #container{
     min-height: 100vh;
 }
+
+
+
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 1000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    gap: 430px;
+    width: 2500px;
+}
+header nav ul li{
+    list-style-type: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: #f8f8f8;
+    font-size: 25px;
+}
+header nav ul li a:hover{
+    color: #000000;
+}
