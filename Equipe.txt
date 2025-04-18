@@ -1,0 +1,7 @@
+Henrique Keigo Nakashima Minowa - RM:564091
+Eduardo Delorenzo Moraes - RM:561749
+Matheus Bispo Faria Barbosa - RM:562140
+
+todos os integrantes estiveram presentes no desenvolvimento do projeto, para facilitar os commits, já que todos estavam presentes, e trazer uma maior agilidade e eficiência no envio ao github, uma única pessoa [Matheus Barbosa] se responsabilizou pela implementação deles.
+
+OBS: TODOS OS INDÍVIDUOS COMPARECERAM E DESENVOLVERAM O PROJETO [Matheus Bispo Faria Barbosa, Henrique Keigo Nakashima Minowa e Eduardo Delorenzo Moraes]
