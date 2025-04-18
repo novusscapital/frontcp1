@@ -11,7 +11,6 @@ body{
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
     font-optical-sizing: auto;
-
 }
 
 
@@ -24,7 +23,7 @@ body{
     font-size: 50px;
     font-style: normal;
     color:  rgb(122, 13, 17);
-    padding: px;
+    padding: 0px;
     border-bottom: #000000 solid 2px;
     background-color: #ffffff;
 }
@@ -55,11 +54,14 @@ body{
 
 header nav ul{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 0;
     font-weight: 1000;
     margin-top: 10px;
     margin-bottom: 10px;
-    gap: 430px;
+    gap: 60px;
     width: 2500px;
 }
 header nav ul li{
@@ -137,6 +139,8 @@ button:hover{
     background: #0680d1;
     color:black;
 }
+
+
 
 footer{
     margin-top: 150px;
