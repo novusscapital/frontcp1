@@ -29,11 +29,8 @@ body{
 }
 #titleimg{
     height: auto;
-    width: 100px;
     margin-right: 30px;
     width: 60px;
-    transition: 0.3s;
-    transform: scale(1.1);
     padding: 5px;
     border: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: 10px;
@@ -177,4 +174,22 @@ ul{
 
 .direitos{
     padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .produto {
+      width: 90%;
+      height: auto;
+  }
+
+  header nav ul {
+      flex-direction: column;
+      gap: 20px;
+  }
+
+  #title {
+      font-size: 30px;
+      flex-direction: column;
+      text-align: center;
+  }
 }
